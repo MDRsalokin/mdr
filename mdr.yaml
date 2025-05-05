@@ -2,7 +2,7 @@ id: mdr
 
 info:
   name: Subdomain Takeover Detection
-  author: "melbadry9 & pxmme1337 - Modify by m4cddr"
+  author: "melbadry9 & pxmme1337 - Modify by mdr"
   severity: high
 
 requests:
